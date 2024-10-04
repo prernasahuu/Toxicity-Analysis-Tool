@@ -1,0 +1,22 @@
+pandas
+re
+string
+nltk
+matplotlib.pyplot
+stopwords
+WordCloud
+WordNetLemmatizer
+seaborn
+sklearn
+MultiOutputClassifier
+Decision Tree
+Naive Bayes
+LGBMClassifier
+TfidfVectorizer
+CountVectorizer
+accuracy_score
+classification_report
+confusion_matrix
+f1_score
+precision_score
+recall_score
